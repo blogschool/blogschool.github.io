@@ -1,11 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "شروع کار!"
 image: images/1.png
 ---
 
-# Welcome
-
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
+#سلام به همگی
+این پست برای تست است.
