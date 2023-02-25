@@ -1,11 +1,11 @@
-- title: Home
-  link: /
-
-- title: About
+- title: درباره
   link: /about/
-
-- title: Services
+  
+- title: سرویس
   link: "/services/"
-
-- title: Contact
+  
+- title: گفت و گو
   link: "/contact/"
+ 
+- title: خانه
+  link: /
